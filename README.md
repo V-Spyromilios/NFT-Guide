@@ -212,7 +212,7 @@ After the deployment of the Contract we will mint the NFT. Make sure you have th
 
   runMain();
 ```
-##Connecting with OpenSea.
+### Connecting with OpenSea.
 
 First, we need to connect our Wallet with OpenSea Market:
 
@@ -223,7 +223,7 @@ You can ask for fake ETH on (https://faucet.rinkeby.io/)
  
 ![image2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8cd01e87-6ece-4460-bc8a-7262b4481ffe/Screenshot_2022-01-08_at_21.59.02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220605%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220605T114050Z&X-Amz-Expires=86400&X-Amz-Signature=ea0d04a4cef157808322b703203ba9f337411d49c450f086a519e151ed8996cd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-01-08%2520at%252021.59.02.png%22&x-id=GetObject)
   
-###Lastly on our terminal:
+### Lastly on our terminal:
 ```Bash
   npx hardhat run scripts/run.js --network rinkeby
 ```
@@ -234,8 +234,8 @@ You can ask for fake ETH on (https://faucet.rinkeby.io/)
   
   ![Final](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86b835c7-ee94-4d7f-8a0e-4f7132a6ff83/Screenshot_2022-01-08_at_22.15.12.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220605%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220605T114254Z&X-Amz-Expires=86400&X-Amz-Signature=a25f69a52b8e35f3bad7532435777240d6392e2d7f74b7eaebc2db89a10bf956&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot%25202022-01-08%2520at%252022.15.12.png%22&x-id=GetObject)
 
-### Final Note:
+## Final Note:
 
-This Guide is far from complete and certainly not the only way to write a smart contract. Please feel free to send me your thoughts and comments!
+### This Guide is far from complete and certainly not the only way to write a smart contract. Please feel free to send me your thoughts and comments!
   
   
